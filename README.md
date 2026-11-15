@@ -137,8 +137,7 @@ AIGuard is a prototype, not a certified governance or compliance product. It doe
 Current scope uses synthetic tabular batches, PSI-based drift checks, a simple baseline classifier, and feature-importance snapshots. Future work may add model registry integrations, scheduled monitoring, data contracts, Evidently/WhyLabs integrations, SHAP monitoring, fairness metrics, alert routing, approval workflows, and secure multi-tenant deployment.
 
 ## Author
-**Mohamed Riyaz S.**  
-Computer Science & Engineering | Business Analytics
 
-## License
-MIT. See `LICENSE`.
+**Mohamed Riyaz S.**  
+Integrated M.Tech, Computer Science and Engineering (Business Analytics)  
+VIT Chennai
