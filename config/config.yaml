@@ -1,0 +1,8 @@
+random_state: 42
+psi_thresholds:
+  moderate: 0.10
+  high: 0.25
+paths:
+  reference: data/sample/reference_data.csv
+  current: data/sample/current_data.csv
+  report: data/processed/monitoring_report.json
